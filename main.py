@@ -8,7 +8,7 @@ def imprima_frase(text):
 
 if __name__ == "__main__":
     texts = []
-    print("Buscando tweets relacionados ao BOZO, aguarde...")
+    print("Buscando tweets relacionados ao Bolsonaro, aguarde...")
     for t in get_tweets("jairbolsonaro"):
         texts.append(t["text"])
 

@@ -1,6 +1,6 @@
-# Frases Bozonaro 
+# Frases Bolsonaro 
 
-Curiosidades do twitter relacionados ao BOZO geradas através de Cadeias de Markov.
+Curiosidades do twitter relacionados ao Bolsonaro geradas através de Cadeias de Markov.
 
 Baseado no Curso de Análise de Dados Públicos do meu amigo [Fernando Massanori](https://github.com/fmasanori).
 
